@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bonjour 👋
+
+Ce compte est dédié à la publication des étapes de développement des projets de l'entreprise [Etapes Print](https://etapes-print.com/).
+
 
 <!--
 **Dev-EtapesPrint/Dev-EtapesPrint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
