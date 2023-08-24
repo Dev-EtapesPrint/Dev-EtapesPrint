@@ -16,18 +16,19 @@ Ce programme permet de mettre à jour le tableau de bord de l'entreprise.
 Après avoir télécharger les fichiers CSV générer par le BackEnd,
 Il trie les informations et les met dans les bonnes pages et colonnes du tableau.
 
+## Petit projet
 
-<!--
-**Dev-EtapesPrint/Dev-EtapesPrint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Auto_Fichier
 
-Here are some ideas to get you started:
+Ce programme permet de ranger les fichiers par date de création/modification dans un dossier qu'il crée automatiquement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Trieur
+
+Ce programme permet de trier les fichiers par extension dans des dossiers qu'il crée automatiquement.
+
+### ToolKit
+
+Ce répertoire contient plusieurs programmes qui permettent de faire des actions simples.
+C'est une sorte de boîte à outils.
+
+
