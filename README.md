@@ -4,9 +4,16 @@ Ce compte est dédié à la publication des étapes de développement des projet
 
 ## Projets importants
 
+### Zen-Holiday
+
+Ce projet est une application web/mobile qui permettra de réserver des vacances chez l'habitant.
+Le projet pourra être présenté pour mon diplôme de fin d'étude.
+
+[![Zen-Holiday](https://github-readme-stats.vercel.app/api/pin/?username=Dev-EtapesPrint&repo=CDA_EtapesPrint)](https://github.com/Dev-EtapesPrint/CDA_EtapesPrint)
+
 ### Auto_Prodmarket
 
-Ce programme permet de télécharger les fichiers de production situé sur un serveur distant. 
+Ce programme permet de télécharger les fichiers de production situé sur un serveur distant.
 Etant donné que aucun programme ne permettait de faire ce que je voulais, j'ai décidé de le développer moi-même.
 Il est une pièce maîtresse car il permet de gagner du temps.
 
@@ -30,5 +37,3 @@ Ce programme permet de trier les fichiers par extension dans des dossiers qu'il 
 
 Ce répertoire contient plusieurs programmes qui permettent de faire des actions simples.
 C'est une sorte de boîte à outils.
-
-
